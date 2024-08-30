@@ -1,2 +1,2 @@
-# STATS-507---HW
+# STATS-507-HW
 HW for stats 507@ Umich
